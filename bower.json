@@ -1,0 +1,21 @@
+{
+  "name": "tdd-stack",
+  "version": "1.0.3",
+  "main": "dist/tdd-stack.min.js",
+  "homepage": "",
+  "ignore": [
+    "src",
+    "spec",
+    ".gitignore",
+    ".jshintignore",
+    ".jshintrc",
+    "bower.json",
+    "Gulpfile.js",
+    "karma.conf.js",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
