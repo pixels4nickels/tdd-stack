@@ -1,8 +1,8 @@
 # TDD Stack for Javascript
 
-npm install
-bower install
-bower update
+#npm install
+#bower install
+#bower update
 
 "gulp dev" will run in continuous integration mode and compile as you change tests or source code.
 
